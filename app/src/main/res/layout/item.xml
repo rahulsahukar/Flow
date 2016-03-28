@@ -11,6 +11,7 @@
             android:background="@drawable/normal_bg"
             android:layout_height="wrap_content"
             android:layout_margin="5dip"
+            android:textSize="18sp"
             android:alpha=".8"
             android:textColor="#FFFFFF"
             android:layout_gravity="bottom"
@@ -18,8 +19,8 @@
 
         <ImageView
             android:id="@+id/delete"
-            android:layout_width="15dp"
-            android:layout_height="15dp"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
             android:layout_gravity="top|right"
             android:src="@drawable/delete"/>
     </FrameLayout>

@@ -5,13 +5,12 @@
     android:id="@+id/scrollView"
     xmlns:app="http://schemas.android.com/tools">
 
-    <flowlayout.rahul.com.flowlayout.TagFlowLayout
+    <flowlayout.rahul.com.flowlayout.ListFlowLayout
         android:id="@+id/id_flowlayout"
         android:layout_width="fill_parent"
-        android:background="@drawable/ngc"
+        android:background="#FFFFFF"
         android:layout_height="match_parent"
         android:gravity="center"
-	    android:padding="10dp"
         >
-    </flowlayout.rahul.com.flowlayout.TagFlowLayout>
+    </flowlayout.rahul.com.flowlayout.ListFlowLayout>
 </ScrollView>
